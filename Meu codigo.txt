@@ -1,1 +1,2 @@
 Olá meu nome é Paulo.
+Estou adicionando uma nova linha no texto.
